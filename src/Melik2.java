@@ -1,0 +1,2 @@
+public class Melik2 {
+}
